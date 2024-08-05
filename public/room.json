@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Cazy Haven Room",
+        "details":"Escape to comfort in our Cozy Haven Room, a snug retreat designed for intimate relaxation.",
+        "image":"/images/room1.jpg",
+        "price":1500
+    },
+    {
+"name":"Spacious Serenity Suite",
+        "details":"Indulge in luxury and ample space in our Spacious Serenity Suite, where tranquility meets roomy elegance.",
+        "image":"/images/small.jpg",
+        "price":1000
+    }
+]

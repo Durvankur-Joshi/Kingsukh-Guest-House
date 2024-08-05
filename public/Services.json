@@ -1,0 +1,23 @@
+[
+    {
+        "name":"security",
+        "icon":"/security.json",
+        "tital":"High Class Security"
+    },
+    {
+        "name":"room service",
+        "icon":"/room service.json",
+        "tital":"24 Hours Room Service "
+    },{
+        "name":"Restaurant",
+        "icon":"/Restaurant.json",
+        "tital":"Restaurant"
+    },
+    {
+        "name":"Tourist Guide Support",
+        "icon":"/Tourist Guide.json",
+        "tital":"Tourist Guide Support"
+    }
+    
+    
+]
